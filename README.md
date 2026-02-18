@@ -57,7 +57,7 @@ This project includes a fully functional **Streamlit Dashboard** for real-time i
 
 ### 1. Clone the Repository
 ```bash
-git clone <Your_Repo_URL>
+git clone https://github.com/jadenn846/AI-Driven-Emotional-Intelligence-Monitor-for-Mental-Health
 cd AI-Emotion-Monitor
 ```
 ### 2. Install Dependencies
